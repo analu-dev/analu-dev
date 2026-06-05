@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg" width="500" alt="pc gato">
+</p>
+
 # ✍ Sobre mim:
 - 😉 Meu nome é Ana Luiza, sou recifense tenho 18 anos
 - 🎓 Sou uma estudante do primeiro período de CC na CESAR SCHOOL
