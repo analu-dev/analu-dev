@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg" width="500" alt="pc gato">
+  <img src="https://i.pinimg.com/1200x/a9/ec/4f/a9ec4fa698e7b1615eac4c8f9bc13c08.jpg" width="800" alt="pc gato">
 </p>
 
 # ✍ Sobre mim:
-- 😉 Meu nome é Ana Luiza, sou recifense tenho 18 anos
-- 🎓 Sou uma estudante do primeiro período de CC na CESAR SCHOOL
-- 💻 Tenho interesse em Desenvolvimento de jogos e apps
-- ❤ Adoro 🎮Videogames, 🎧Música, 🎨Arte e 🧳Aventura
+<img src="https://i.pinimg.com/736x/75/64/d6/7564d66400ea908130385b34bcb16a98.jpg" alt="Texto Alternativo" align="right" width="150" style="margin-right: 30px;">
 
+- 😉 Meu nome é Ana Luiza;
+- 🗺️ Sou recifense e tenho 18 anos;
+- 🎓 Sou uma estudante do primeiro período de CC na CESAR SCHOOL;
+- 💻 Tenho interesse em Desenvolvimento de jogos e apps;
+- 🤍 amo 🎮Videogames, 🎧Música e 🎨Arte.
+
+<br clear="right"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-luiza-c-750514306) 
