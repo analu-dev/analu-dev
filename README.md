@@ -7,7 +7,7 @@
 
 - 😉 Meu nome é Ana Luiza;
 - 🗺️ Sou recifense e tenho 18 anos;
-- 🎓 Sou uma estudante do primeiro período de CC na CESAR SCHOOL;
+- 🎓 Sou uma estudante do segundo período de CC na CESAR SCHOOL;
 - 💻 Tenho interesse em Desenvolvimento de jogos e apps;
 - 🤍 amo 🎮Videogames, 🎧Música e 🎨Arte.
 
