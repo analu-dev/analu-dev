@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/736x/75/64/d6/7564d66400ea908130385b34bcb16a98.jpg" alt="Texto Alternativo" align="right" width="150" style="margin-right: 30px;">
 
 - 😉 Meu nome é Ana Luiza;
-- 🗺️ Sou recifense e tenho 18 anos;
+- 🗺️ Sou recifense e tenho 19 anos;
 - 🎓 Sou uma estudante do segundo período de CC na CESAR SCHOOL;
 - 💻 Tenho interesse em Desenvolvimento de jogos e apps;
 - 🤍 amo 🎮Videogames, 🎧Música e 🎨Arte.
